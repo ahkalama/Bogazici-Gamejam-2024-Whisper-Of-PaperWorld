@@ -6,9 +6,9 @@ Uzak bir diyarın büyülü ormanında, krallığın koruyucusu Prenses Lily, do
 
 
 
-Oyunun Github Kodları:
+Oyunun itch.io Sayfası:
 
-https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld/tree/mai...
+[https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld/tree/mai...](https://zmrt.itch.io/whisper-of-paperworlds)
 
 
 
