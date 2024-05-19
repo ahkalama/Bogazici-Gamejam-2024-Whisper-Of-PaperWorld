@@ -1,4 +1,5 @@
 # Whisper Of PaperWorld
+*Bogazici GameJam 2024*
 
 Aşk Düğümünün Canavarından Sevgilisini Kurtarmaya Çalışan Bir Genç'in hikayesi,
 
