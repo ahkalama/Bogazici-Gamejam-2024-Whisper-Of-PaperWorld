@@ -37,6 +37,8 @@ Nurdan Şahinoğlu / Discord: nurdansahinoglu
 
 __________________________________________
 
+![YHWADn](https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld/assets/116187665/2ebe6351-eaf2-4323-84c4-b39974deaa09)
+
 
 ![lUanK5](https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld/assets/116187665/53c6fc99-0f7c-4d67-a1ae-9510d0b6b7ab)
 ![GGLTrF](https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld/assets/116187665/9225f6be-d7e2-4567-931b-7d8f4eda2aae)
