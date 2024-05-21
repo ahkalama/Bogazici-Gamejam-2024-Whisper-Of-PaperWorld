@@ -3,7 +3,7 @@
 
 Aşk Düğümünün Canavarından Sevgilisini Kurtarmaya Çalışan Bir Genç'in hikayesi,
 
-Uzak bir diyarın büyülü ormanında, krallığın koruyucusu Prenses Lily, doğanın dengesini ve orman sakinlerini korurdu. Ancak, "Düğüm Canavarı" adlı kötü bir canavar Lily'yi kaçırınca, krallık sarsıldı. Cesur genç Alex, Lily'yi kurtarmak için yola çıktı ve ormanda karşılaştığı yardımcılarla birlikte Düğüm Canavarı'nın kalesine ulaştı. Destansı bir savaşın ardından Alex'in çabaları yeterli olmadı ve Lily sonsuz uykuya daldı. Alex, Lily'nin anısını onurlandırarak krallığa huzuru geri getirdi; Lily'nin saflığı ve sevgisi, krallığın kalbinde sonsuza kadar yaşadı
+Uzak bir diyarın büyülü ormanında, krallığın koruyucusu Prenses Lily, doğanın dengesini ve orman sakinlerini korurdu. Ancak, *Düğüm Canavarı* adlı kötü bir canavar Lily'yi kaçırınca, krallık sarsıldı. Cesur genç Alex, Lily'yi kurtarmak için yola çıktı ve ormanda karşılaştığı yardımcılarla birlikte Düğüm Canavarı'nın kalesine ulaştı. Destansı bir savaşın ardından Alex'in çabaları yeterli olmadı ve Lily sonsuz uykuya daldı. Alex, Lily'nin anısını onurlandırarak krallığa huzuru geri getirdi; Lily'nin saflığı ve sevgisi, krallığın kalbinde sonsuza kadar yaşadı.
 
 
 
