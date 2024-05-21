@@ -1,3 +1,5 @@
+![YHWADn](https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld/assets/116187665/b4d75620-2931-4a59-99f7-f2d601e7e50d)
+
 # Whisper Of PaperWorld
 *Bogazici GameJam 2024*
 
