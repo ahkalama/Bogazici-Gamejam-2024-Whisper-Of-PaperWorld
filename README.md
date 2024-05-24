@@ -1,6 +1,7 @@
 ![YHWADn](https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld/assets/116187665/b4d75620-2931-4a59-99f7-f2d601e7e50d)
 
-# Whisper Of PaperWorld
+![Whisper-of-Paperworld-24-05-2024](https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld/assets/116187665/11dbb75f-2004-4882-ae87-e792f7d3ba28)
+
 *Bogazici GameJam 2024*
 
 Aşk Düğümünün Canavarından Sevgilisini Kurtarmaya Çalışan Bir Genç'in hikayesi,
