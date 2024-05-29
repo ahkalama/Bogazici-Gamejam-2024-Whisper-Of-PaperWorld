@@ -2,7 +2,7 @@
 
 ![Whisper-of-Paperworld-24-05-2024 (1)](https://github.com/ahkalama/Bogazici-Gamejam-2024-Whisper-Of-PaperWorld/assets/116187665/f4a8ea27-47f5-4049-aefc-c357b237b7da)
 *Bogazici GameJam 2024* / *Tema: Düğüm*
-dff
+
 Aşk Düğümünün Canavarından Sevgilisini Kurtarmaya Çalışan Bir Genç'in hikayesi,
 
 Uzak bir diyarın büyülü ormanında, krallığın koruyucusu Prenses Lily, doğanın dengesini ve orman sakinlerini korurdu. Ancak, *Düğüm Canavarı* adlı kötü bir canavar Lily'yi kaçırınca, krallık sarsıldı. Cesur genç Alex, Lily'yi kurtarmak için yola çıktı ve ormanda karşılaştığı yardımcılarla birlikte Düğüm Canavarı'nın kalesine ulaştı. Destansı bir savaşın ardından Alex'in çabaları yeterli olmadı ve Lily sonsuz uykuya daldı. Alex, Lily'nin anısını onurlandırarak krallığa huzuru geri getirdi; Lily'nin saflığı ve sevgisi, krallığın kalbinde sonsuza kadar yaşadı.
